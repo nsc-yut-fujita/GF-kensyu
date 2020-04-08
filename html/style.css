@@ -1,0 +1,25 @@
+header{
+    background: #60cdff;
+    
+}
+
+
+
+.header-box{
+    text-align: center;
+    width: 80%;
+    margin:  auto;
+    max-width: 500px;
+}
+
+main{
+    background: #ffcc11;
+}
+
+.gazo{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    max-width: 500px
+}
+
